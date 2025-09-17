@@ -1,7 +1,7 @@
 # Playwright Showcase
 
 Tento projekt obsahuje ukázkovou sadu Playwright testů (10 scénářů) pro různé veřejně dostupné weby a API.  
-
+This project has Playwright tests (10 scenerios) for testing websites and APIs. 
 
 ## 📦 Instalace
 
