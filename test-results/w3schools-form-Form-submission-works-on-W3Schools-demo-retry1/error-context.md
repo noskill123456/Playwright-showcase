@@ -1,0 +1,1242 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic:
+    - generic [ref=e2]:
+      - link "Home link" [ref=e3] [cursor=pointer]:
+        - /url: https://www.w3schools.com
+        - generic [ref=e4] [cursor=pointer]: 
+      - navigation [ref=e5]:
+        - button "Tutorials" [ref=e6] [cursor=pointer]:
+          - text: Tutorials
+          - generic [ref=e7] [cursor=pointer]: 
+          - text: 
+        - button "References" [ref=e8] [cursor=pointer]:
+          - text: References
+          - generic [ref=e9] [cursor=pointer]: 
+          - text: 
+        - button "Exercises" [ref=e10] [cursor=pointer]:
+          - text: Exercises
+          - generic [ref=e11] [cursor=pointer]: 
+          - text: 
+        - button "Certificates" [ref=e12] [cursor=pointer]:
+          - text: Certificates
+          - generic [ref=e13] [cursor=pointer]: 
+          - text: 
+      - text:  
+      - generic [ref=e15]:
+        - generic [ref=e16]: Search field
+        - textbox "Search field" [ref=e17]
+        - button "Button to search" [ref=e18] [cursor=pointer]:
+          - img [ref=e19] [cursor=pointer]
+      - button "All our services" [ref=e22] [cursor=pointer]:
+        - img [ref=e23] [cursor=pointer]
+      - generic [ref=e26]:
+        - button "Sign in to your account" [ref=e27] [cursor=pointer]:
+          - img [ref=e28] [cursor=pointer]
+          - generic [ref=e31] [cursor=pointer]: Sign In
+        - link "W3Schools Certificates" [ref=e32] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/course-catalog
+          - img [ref=e33] [cursor=pointer]
+          - text: Get Certified
+        - link "Become a PLUS user and unlock powerful features" [ref=e35] [cursor=pointer]:
+          - /url: https://order.w3schools.com/plans
+          - img [ref=e36] [cursor=pointer]
+          - text: Upgrade
+        - link "Contact us about W3Schools Academy for educational institutions" [ref=e40] [cursor=pointer]:
+          - /url: /academy/index.php
+          - img [ref=e41] [cursor=pointer]
+          - text: For Teachers
+        - link "Get Your Own Website With W3Schools Spaces" [ref=e43] [cursor=pointer]:
+          - /url: /spaces/index.php
+          - img [ref=e44] [cursor=pointer]
+          - text: Spaces
+    - text:      
+    - generic [ref=e46]:
+      - generic: 
+  - generic [ref=e50]:
+    - generic [ref=e52] [cursor=pointer]: ❯
+    - generic:
+      - generic: 
+    - link "HTML" [ref=e53] [cursor=pointer]:
+      - /url: /html/default.asp
+    - link "CSS" [ref=e54] [cursor=pointer]:
+      - /url: /css/default.asp
+    - link "JAVASCRIPT" [ref=e55] [cursor=pointer]:
+      - /url: /js/default.asp
+    - link "SQL" [ref=e56] [cursor=pointer]:
+      - /url: /sql/default.asp
+    - link "PYTHON" [ref=e57] [cursor=pointer]:
+      - /url: /python/default.asp
+    - link "JAVA" [ref=e58] [cursor=pointer]:
+      - /url: /java/default.asp
+    - link "PHP" [ref=e59] [cursor=pointer]:
+      - /url: /php/default.asp
+    - link "HOW TO" [ref=e60] [cursor=pointer]:
+      - /url: /howto/default.asp
+    - link "W3.CSS" [ref=e61] [cursor=pointer]:
+      - /url: /w3css/default.asp
+    - link "C" [ref=e62] [cursor=pointer]:
+      - /url: /c/index.php
+    - link "C++" [ref=e63] [cursor=pointer]:
+      - /url: /cpp/default.asp
+    - link "C#" [ref=e64] [cursor=pointer]:
+      - /url: /cs/index.php
+    - link "BOOTSTRAP" [ref=e65] [cursor=pointer]:
+      - /url: /bootstrap/bootstrap_ver.asp
+    - link "REACT" [ref=e66] [cursor=pointer]:
+      - /url: /react/default.asp
+    - link "MYSQL" [ref=e67] [cursor=pointer]:
+      - /url: /mysql/default.asp
+    - link "JQUERY" [ref=e68] [cursor=pointer]:
+      - /url: /jquery/default.asp
+    - link "EXCEL" [ref=e69] [cursor=pointer]:
+      - /url: /excel/index.php
+    - link "XML" [ref=e70] [cursor=pointer]:
+      - /url: /xml/default.asp
+    - link "DJANGO" [ref=e71] [cursor=pointer]:
+      - /url: /django/index.php
+    - link "NUMPY" [ref=e72] [cursor=pointer]:
+      - /url: /python/numpy/default.asp
+    - link "PANDAS" [ref=e73] [cursor=pointer]:
+      - /url: /python/pandas/default.asp
+    - link "NODEJS" [ref=e74] [cursor=pointer]:
+      - /url: /nodejs/default.asp
+    - link "DSA" [ref=e75] [cursor=pointer]:
+      - /url: /dsa/index.php
+    - link "TYPESCRIPT" [ref=e76] [cursor=pointer]:
+      - /url: /typescript/index.php
+    - link "ANGULAR" [ref=e77] [cursor=pointer]:
+      - /url: /angular/default.asp
+    - link "ANGULARJS" [ref=e78] [cursor=pointer]:
+      - /url: /angularjs/default.asp
+    - link "GIT" [ref=e79] [cursor=pointer]:
+      - /url: /git/default.asp
+    - link "POSTGRESQL" [ref=e80] [cursor=pointer]:
+      - /url: /postgresql/index.php
+    - link "MONGODB" [ref=e81] [cursor=pointer]:
+      - /url: /mongodb/index.php
+    - link "ASP" [ref=e82] [cursor=pointer]:
+      - /url: /asp/default.asp
+    - link "AI" [ref=e83] [cursor=pointer]:
+      - /url: /ai/default.asp
+    - link "R" [ref=e84] [cursor=pointer]:
+      - /url: /r/default.asp
+    - link "GO" [ref=e85] [cursor=pointer]:
+      - /url: /go/index.php
+    - link "KOTLIN" [ref=e86] [cursor=pointer]:
+      - /url: /kotlin/index.php
+    - link "SASS" [ref=e87] [cursor=pointer]:
+      - /url: /sass/default.asp
+    - link "VUE" [ref=e88] [cursor=pointer]:
+      - /url: /vue/index.php
+    - link "GEN AI" [ref=e89] [cursor=pointer]:
+      - /url: /gen_ai/index.php
+    - link "SCIPY" [ref=e90] [cursor=pointer]:
+      - /url: /python/scipy/index.php
+    - link "CYBERSECURITY" [ref=e91] [cursor=pointer]:
+      - /url: /cybersecurity/index.php
+    - link "DATA SCIENCE" [ref=e92] [cursor=pointer]:
+      - /url: /datascience/default.asp
+    - link "INTRO TO PROGRAMMING" [ref=e93] [cursor=pointer]:
+      - /url: /programming/index.php
+    - link "BASH" [ref=e94] [cursor=pointer]:
+      - /url: /bash/index.php
+    - link "RUST" [ref=e95] [cursor=pointer]:
+      - /url: /rust/index.php
+  - generic [ref=e97]:
+    - generic [ref=e100]:
+      - heading "HTML Tutorial" [level=2] [ref=e101]:
+        - generic [ref=e102]: HTML
+        - text: Tutorial
+      - link "HTML HOME" [ref=e103] [cursor=pointer]:
+        - /url: default.asp
+      - link "HTML Introduction" [ref=e104] [cursor=pointer]:
+        - /url: html_intro.asp
+      - link "HTML Editors" [ref=e105] [cursor=pointer]:
+        - /url: html_editors.asp
+      - link "HTML Basic" [ref=e106] [cursor=pointer]:
+        - /url: html_basic.asp
+      - link "HTML Elements" [ref=e107] [cursor=pointer]:
+        - /url: html_elements.asp
+      - link "HTML Attributes" [ref=e108] [cursor=pointer]:
+        - /url: html_attributes.asp
+      - link "HTML Headings" [ref=e109] [cursor=pointer]:
+        - /url: html_headings.asp
+      - link "HTML Paragraphs" [ref=e110] [cursor=pointer]:
+        - /url: html_paragraphs.asp
+      - link "HTML Styles" [ref=e111] [cursor=pointer]:
+        - /url: html_styles.asp
+      - link "HTML Formatting" [ref=e112] [cursor=pointer]:
+        - /url: html_formatting.asp
+      - link "HTML Quotations" [ref=e113] [cursor=pointer]:
+        - /url: html_quotation_elements.asp
+      - link "HTML Comments" [ref=e114] [cursor=pointer]:
+        - /url: html_comments.asp
+      - link "HTML Colors " [ref=e115] [cursor=pointer]:
+        - /url: html_colors.asp
+        - text: HTML Colors
+        - generic: 
+      - link "HTML CSS" [ref=e116] [cursor=pointer]:
+        - /url: html_css.asp
+      - link "HTML Links " [ref=e117] [cursor=pointer]:
+        - /url: html_links.asp
+        - text: HTML Links
+        - generic: 
+      - link "HTML Images " [ref=e118] [cursor=pointer]:
+        - /url: html_images.asp
+        - text: HTML Images
+        - generic: 
+      - link "HTML Favicon" [ref=e119] [cursor=pointer]:
+        - /url: html_favicon.asp
+      - link "HTML Page Title" [ref=e120] [cursor=pointer]:
+        - /url: html_page_title.asp
+      - link "HTML Tables " [ref=e121] [cursor=pointer]:
+        - /url: html_tables.asp
+        - text: HTML Tables
+        - generic: 
+      - link "HTML Lists " [ref=e122] [cursor=pointer]:
+        - /url: html_lists.asp
+        - text: HTML Lists
+        - generic: 
+      - link "HTML Block & Inline" [ref=e123] [cursor=pointer]:
+        - /url: html_blocks.asp
+      - link "HTML Div" [ref=e124] [cursor=pointer]:
+        - /url: html_div.asp
+      - link "HTML Classes" [ref=e125] [cursor=pointer]:
+        - /url: html_classes.asp
+      - link "HTML Id" [ref=e126] [cursor=pointer]:
+        - /url: html_id.asp
+      - link "HTML Iframes" [ref=e127] [cursor=pointer]:
+        - /url: html_iframe.asp
+      - link "HTML JavaScript" [ref=e128] [cursor=pointer]:
+        - /url: html_scripts.asp
+      - link "HTML File Paths" [ref=e129] [cursor=pointer]:
+        - /url: html_filepaths.asp
+      - link "HTML Head" [ref=e130] [cursor=pointer]:
+        - /url: html_head.asp
+      - link "HTML Layout" [ref=e131] [cursor=pointer]:
+        - /url: html_layout.asp
+      - link "HTML Responsive" [ref=e132] [cursor=pointer]:
+        - /url: html_responsive.asp
+      - link "HTML Computercode" [ref=e133] [cursor=pointer]:
+        - /url: html_computercode_elements.asp
+      - link "HTML Semantics" [ref=e134] [cursor=pointer]:
+        - /url: html5_semantic_elements.asp
+      - link "HTML Style Guide" [ref=e135] [cursor=pointer]:
+        - /url: html5_syntax.asp
+      - link "HTML Entities" [ref=e136] [cursor=pointer]:
+        - /url: html_entities.asp
+      - link "HTML Symbols" [ref=e137] [cursor=pointer]:
+        - /url: html_symbols.asp
+      - link "HTML Emojis" [ref=e138] [cursor=pointer]:
+        - /url: html_emojis.asp
+      - link "HTML Charsets" [ref=e139] [cursor=pointer]:
+        - /url: html_charset.asp
+      - link "HTML URL Encode" [ref=e140] [cursor=pointer]:
+        - /url: html_urlencode.asp
+      - link "HTML vs. XHTML" [ref=e141] [cursor=pointer]:
+        - /url: html_xhtml.asp
+      - heading "HTML Forms" [level=2] [ref=e142]:
+        - generic [ref=e143]: HTML
+        - text: Forms
+      - link "HTML Forms" [ref=e144] [cursor=pointer]:
+        - /url: html_forms.asp
+      - link "HTML Form Attributes" [ref=e145] [cursor=pointer]:
+        - /url: html_forms_attributes.asp
+      - link "HTML Form Elements" [ref=e146] [cursor=pointer]:
+        - /url: html_form_elements.asp
+      - link "HTML Input Types" [ref=e147] [cursor=pointer]:
+        - /url: html_form_input_types.asp
+      - link "HTML Input Attributes" [ref=e148] [cursor=pointer]:
+        - /url: html_form_attributes.asp
+      - link "Input Form Attributes" [ref=e149] [cursor=pointer]:
+        - /url: html_form_attributes_form.asp
+      - heading "HTML Graphics" [level=2] [ref=e150]:
+        - generic [ref=e151]: HTML
+        - text: Graphics
+      - link "HTML Canvas" [ref=e152] [cursor=pointer]:
+        - /url: html5_canvas.asp
+      - link "HTML SVG" [ref=e153] [cursor=pointer]:
+        - /url: html5_svg.asp
+      - heading "HTML Media" [level=2] [ref=e154]:
+        - generic [ref=e155]: HTML
+        - text: Media
+      - link "HTML Media" [ref=e156] [cursor=pointer]:
+        - /url: html_media.asp
+      - link "HTML Video" [ref=e157] [cursor=pointer]:
+        - /url: html5_video.asp
+      - link "HTML Audio" [ref=e158] [cursor=pointer]:
+        - /url: html5_audio.asp
+      - link "HTML Plug-ins" [ref=e159] [cursor=pointer]:
+        - /url: html_object.asp
+      - link "HTML YouTube" [ref=e160] [cursor=pointer]:
+        - /url: html_youtube.asp
+      - heading "HTML APIs" [level=2] [ref=e161]:
+        - generic [ref=e162]: HTML
+        - text: APIs
+      - link "HTML Web APIs" [ref=e163] [cursor=pointer]:
+        - /url: html5_api_whatis.asp
+      - link "HTML Geolocation" [ref=e164] [cursor=pointer]:
+        - /url: html5_geolocation.asp
+      - link "HTML Drag and Drop" [ref=e165] [cursor=pointer]:
+        - /url: html5_draganddrop.asp
+      - link "HTML Web Storage" [ref=e166] [cursor=pointer]:
+        - /url: html5_webstorage.asp
+      - link "HTML Web Workers" [ref=e167] [cursor=pointer]:
+        - /url: html5_webworkers.asp
+      - link "HTML SSE" [ref=e168] [cursor=pointer]:
+        - /url: html5_serversentevents.asp
+      - heading "HTML Examples" [level=2] [ref=e169]:
+        - generic [ref=e170]: HTML
+        - text: Examples
+      - link "HTML Examples" [ref=e171] [cursor=pointer]:
+        - /url: html_examples.asp
+      - link "HTML Editor" [ref=e172] [cursor=pointer]:
+        - /url: html_editor.asp
+      - link "HTML Quiz" [ref=e173] [cursor=pointer]:
+        - /url: html_quiz.asp
+      - link "HTML Exercises" [ref=e174] [cursor=pointer]:
+        - /url: html_exercises.asp
+      - link "HTML Website" [ref=e175] [cursor=pointer]:
+        - /url: html_website.asp
+      - link "HTML Syllabus" [ref=e176] [cursor=pointer]:
+        - /url: html_syllabus.asp
+      - link "HTML Study Plan" [ref=e177] [cursor=pointer]:
+        - /url: html_study_plan.asp
+      - link "HTML Interview Prep" [ref=e178] [cursor=pointer]:
+        - /url: html_interview_prep.asp
+      - link "HTML Bootcamp" [ref=e179] [cursor=pointer]:
+        - /url: html_bootcamp.asp
+      - link "HTML Certificate" [ref=e180] [cursor=pointer]:
+        - /url: html_exam.asp
+      - link "HTML Summary" [ref=e181] [cursor=pointer]:
+        - /url: html_summary.asp
+      - link "HTML Accessibility" [ref=e182] [cursor=pointer]:
+        - /url: html_accessibility.asp
+      - heading "HTML References" [level=2] [ref=e183]:
+        - generic [ref=e184]: HTML
+        - text: References
+      - link "HTML Tag List" [ref=e185] [cursor=pointer]:
+        - /url: /tags/default.asp
+      - link "HTML Attributes" [ref=e186] [cursor=pointer]:
+        - /url: /tags/ref_attributes.asp
+      - link "HTML Global Attributes" [ref=e187] [cursor=pointer]:
+        - /url: /tags/ref_standardattributes.asp
+      - link "HTML Browser Support" [ref=e188] [cursor=pointer]:
+        - /url: /tags/ref_html_browsersupport.asp
+      - link "HTML Events" [ref=e189] [cursor=pointer]:
+        - /url: /tags/ref_eventattributes.asp
+      - link "HTML Colors" [ref=e190] [cursor=pointer]:
+        - /url: /tags/ref_colornames.asp
+      - link "HTML Canvas" [ref=e191] [cursor=pointer]:
+        - /url: /tags/ref_canvas.asp
+      - link "HTML Audio/Video" [ref=e192] [cursor=pointer]:
+        - /url: /tags/ref_av_dom.asp
+      - link "HTML Doctypes" [ref=e193] [cursor=pointer]:
+        - /url: /tags/ref_html_dtd.asp
+      - link "HTML Character Sets" [ref=e194] [cursor=pointer]:
+        - /url: /tags/ref_charactersets.asp
+      - link "HTML URL Encode" [ref=e195] [cursor=pointer]:
+        - /url: /tags/ref_urlencode.asp
+      - link "HTML Lang Codes" [ref=e196] [cursor=pointer]:
+        - /url: /tags/ref_language_codes.asp
+      - link "HTTP Messages" [ref=e197] [cursor=pointer]:
+        - /url: /tags/ref_httpmessages.asp
+      - link "HTTP Methods" [ref=e198] [cursor=pointer]:
+        - /url: /tags/ref_httpmethods.asp
+      - link "PX to EM Converter" [ref=e199] [cursor=pointer]:
+        - /url: /tags/ref_pxtoemconversion.asp
+      - link "Keyboard Shortcuts" [ref=e200] [cursor=pointer]:
+        - /url: /tags/ref_keyboardshortcuts.asp
+    - generic [ref=e202]:
+      - generic [ref=e203]:
+        - heading "HTML Forms" [level=1] [ref=e205]:
+          - text: HTML
+          - generic [ref=e209]: Forms
+        - generic [ref=e210]:
+          - link "❮ Previous" [ref=e211] [cursor=pointer]:
+            - /url: html_xhtml.asp
+          - link "Next ❯" [ref=e212] [cursor=pointer]:
+            - /url: html_forms_attributes.asp
+        - separator [ref=e213]
+        - paragraph [ref=e214]: An HTML form is used to collect user input. The user input is most often sent to a server for processing.
+        - separator [ref=e215]
+        - generic [ref=e216]:
+          - heading "Example" [level=3] [ref=e217]
+          - generic [ref=e219]:
+            - generic [ref=e220]: "First name:"
+            - textbox "First name:" [ref=e221]: John
+            - generic [ref=e222]: "Last name:"
+            - textbox "Last name:" [ref=e223]: Doe
+            - button "Submit" [ref=e224]
+          - link "Try it Yourself »" [ref=e225] [cursor=pointer]:
+            - /url: tryit.asp?filename=tryhtml_form_submit
+        - separator [ref=e226]
+        - heading "The <form> Element" [level=2] [ref=e227]
+        - paragraph [ref=e228]:
+          - text: The HTML
+          - code [ref=e229]: <form>
+          - text: "element is used to create an HTML form for user input:"
+        - generic [ref=e231]:
+          - generic [ref=e232]:
+            - generic [ref=e233]: <
+            - text: form
+            - generic [ref=e234]: ">"
+          - text: .
+          - generic [ref=e235]: form elements
+          - text: .
+          - generic [ref=e236]:
+            - generic [ref=e237]: <
+            - text: /form
+            - generic [ref=e238]: ">"
+        - paragraph [ref=e239]:
+          - text: The
+          - code [ref=e240]: <form>
+          - text: "element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc."
+        - paragraph [ref=e241]:
+          - text: "All the different form elements are covered in this chapter:"
+          - link "HTML Form Elements" [ref=e242] [cursor=pointer]:
+            - /url: html_form_elements.asp
+          - text: .
+        - separator [ref=e243]
+        - heading "The <input> Element" [level=2] [ref=e244]
+        - paragraph [ref=e245]:
+          - text: The HTML
+          - code [ref=e246]: <input>
+          - text: element is the most used form element.
+        - paragraph [ref=e247]:
+          - text: An
+          - code [ref=e248]: <input>
+          - text: element can be displayed in many ways, depending on the
+          - code [ref=e249]: type
+          - text: attribute.
+        - paragraph [ref=e250]: "Here are some examples:"
+        - table [ref=e251]:
+          - rowgroup [ref=e252]:
+            - row "Type Description" [ref=e253]:
+              - cell "Type" [ref=e254]
+              - cell "Description" [ref=e255]
+            - row "<input type=\"text\"> Displays a single-line text input field" [ref=e256]:
+              - cell "<input type=\"text\">" [ref=e257]
+              - cell "Displays a single-line text input field" [ref=e258]
+            - row "<input type=\"radio\"> Displays a radio button (for selecting one of many choices)" [ref=e259]:
+              - cell "<input type=\"radio\">" [ref=e260]
+              - cell "Displays a radio button (for selecting one of many choices)" [ref=e261]
+            - row "<input type=\"checkbox\"> Displays a checkbox (for selecting zero or more of many choices)" [ref=e262]:
+              - cell "<input type=\"checkbox\">" [ref=e263]
+              - cell "Displays a checkbox (for selecting zero or more of many choices)" [ref=e264]
+            - row "<input type=\"submit\"> Displays a submit button (for submitting the form)" [ref=e265]:
+              - cell "<input type=\"submit\">" [ref=e266]
+              - cell "Displays a submit button (for submitting the form)" [ref=e267]
+            - row "<input type=\"button\"> Displays a clickable button" [ref=e268]:
+              - cell "<input type=\"button\">" [ref=e269]
+              - cell "Displays a clickable button" [ref=e270]
+        - paragraph [ref=e271]:
+          - text: "All the different input types are covered in this chapter:"
+          - link "HTML Input Types" [ref=e272] [cursor=pointer]:
+            - /url: html_form_input_types.asp
+          - text: .
+        - separator [ref=e273]
+        - paragraph [ref=e275]:
+          - link "REMOVE ADS" [ref=e276] [cursor=pointer]:
+            - /url: https://order.w3schools.com/plans
+        - separator [ref=e277]
+        - heading "Text Fields" [level=2] [ref=e278]
+        - paragraph [ref=e279]:
+          - text: The
+          - code [ref=e280]: <input type="text">
+          - text: defines a single-line input field for text input.
+        - generic [ref=e281]:
+          - heading "Example" [level=3] [ref=e282]
+          - paragraph [ref=e283]: "A form with input fields for text:"
+          - generic [ref=e284]:
+            - generic [ref=e285]:
+              - generic [ref=e286]: <
+              - text: form
+              - generic [ref=e287]: ">"
+            - generic [ref=e288]:
+              - generic [ref=e289]: <
+              - text: label
+              - generic [ref=e290]:
+                - text: for
+                - generic [ref=e291]: ="fname"
+              - generic [ref=e292]: ">"
+            - text: "First name:"
+            - generic [ref=e293]:
+              - generic [ref=e294]: <
+              - text: /label
+              - generic [ref=e295]: ">"
+            - generic [ref=e296]:
+              - generic [ref=e297]: <
+              - text: br
+              - generic [ref=e298]: ">"
+            - generic [ref=e299]:
+              - generic [ref=e300]: <
+              - text: input
+              - generic [ref=e301]:
+                - text: type
+                - generic [ref=e302]: ="text"
+                - text: id
+                - generic [ref=e303]: ="fname"
+                - text: name
+                - generic [ref=e304]: ="fname"
+              - generic [ref=e305]: ">"
+            - generic [ref=e306]:
+              - generic [ref=e307]: <
+              - text: br
+              - generic [ref=e308]: ">"
+            - generic [ref=e309]:
+              - generic [ref=e310]: <
+              - text: label
+              - generic [ref=e311]:
+                - text: for
+                - generic [ref=e312]: ="lname"
+              - generic [ref=e313]: ">"
+            - text: "Last name:"
+            - generic [ref=e314]:
+              - generic [ref=e315]: <
+              - text: /label
+              - generic [ref=e316]: ">"
+            - generic [ref=e317]:
+              - generic [ref=e318]: <
+              - text: br
+              - generic [ref=e319]: ">"
+            - generic [ref=e320]:
+              - generic [ref=e321]: <
+              - text: input
+              - generic [ref=e322]:
+                - text: type
+                - generic [ref=e323]: ="text"
+                - text: id
+                - generic [ref=e324]: ="lname"
+                - text: name
+                - generic [ref=e325]: ="lname"
+              - generic [ref=e326]: ">"
+            - generic [ref=e327]:
+              - generic [ref=e328]: <
+              - text: /form
+              - generic [ref=e329]: ">"
+          - link "Try it Yourself »" [ref=e330] [cursor=pointer]:
+            - /url: tryit.asp?filename=tryhtml_form_text
+        - paragraph [ref=e331]: "This is how the HTML code above will be displayed in a browser:"
+        - generic [ref=e332]:
+          - text: "First name:"
+          - textbox [ref=e333]
+          - text: "Last name:"
+          - textbox [ref=e334]
+        - paragraph [ref=e336]:
+          - generic [ref=e337]: "Note:"
+          - text: The form itself is not visible. Also note that the default width of an input field is 20 characters.
+        - separator [ref=e338]
+        - heading "The <label> Element" [level=2] [ref=e339]
+        - paragraph [ref=e340]:
+          - text: Notice the use of the
+          - code [ref=e341]: <label>
+          - text: element in the example above.
+        - paragraph [ref=e342]:
+          - text: The
+          - code [ref=e343]: <label>
+          - text: tag defines a label for many form elements.
+        - paragraph [ref=e344]:
+          - text: The
+          - code [ref=e345]: <label>
+          - text: element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focuses on the input element.
+        - paragraph [ref=e346]:
+          - text: The
+          - code [ref=e347]: <label>
+          - text: element also helps users who have difficulty clicking on very small regions (such as radio buttons or checkboxes) - because when the user clicks the text within the
+          - code [ref=e348]: <label>
+          - text: element, it toggles the radio button/checkbox.
+        - paragraph [ref=e349]:
+          - text: The
+          - code [ref=e350]: for
+          - text: attribute of the
+          - code [ref=e351]: <label>
+          - text: tag should be equal to the
+          - code [ref=e352]: id
+          - text: attribute of the
+          - code [ref=e353]: <input>
+          - text: element to bind them together.
+        - separator [ref=e354]
+        - heading "Radio Buttons" [level=2] [ref=e355]
+        - paragraph [ref=e356]:
+          - text: The
+          - code [ref=e357]: <input type="radio">
+          - text: defines a radio button.
+        - paragraph [ref=e358]: Radio buttons let a user select ONE of a limited number of choices.
+        - generic [ref=e359]:
+          - heading "Example" [level=3] [ref=e360]
+          - paragraph [ref=e361]: "A form with radio buttons:"
+          - generic [ref=e362]:
+            - generic [ref=e363]:
+              - generic [ref=e364]: <
+              - text: p
+              - generic [ref=e365]: ">"
+            - text: "Choose your favorite Web language:"
+            - generic [ref=e366]:
+              - generic [ref=e367]: <
+              - text: /p
+              - generic [ref=e368]: ">"
+            - generic [ref=e369]:
+              - generic [ref=e370]: <
+              - text: form
+              - generic [ref=e371]: ">"
+            - generic [ref=e372]:
+              - generic [ref=e373]: <
+              - text: input
+              - generic [ref=e374]:
+                - text: type
+                - generic [ref=e375]: ="radio"
+                - text: id
+                - generic [ref=e376]: ="html"
+                - text: name
+                - generic [ref=e377]: ="fav_language"
+                - text: value
+                - generic [ref=e378]: ="HTML"
+              - generic [ref=e379]: ">"
+            - generic [ref=e380]:
+              - generic [ref=e381]: <
+              - text: label
+              - generic [ref=e382]:
+                - text: for
+                - generic [ref=e383]: ="html"
+              - generic [ref=e384]: ">"
+            - text: HTML
+            - generic [ref=e385]:
+              - generic [ref=e386]: <
+              - text: /label
+              - generic [ref=e387]: ">"
+            - generic [ref=e388]:
+              - generic [ref=e389]: <
+              - text: br
+              - generic [ref=e390]: ">"
+            - generic [ref=e391]:
+              - generic [ref=e392]: <
+              - text: input
+              - generic [ref=e393]:
+                - text: type
+                - generic [ref=e394]: ="radio"
+                - text: id
+                - generic [ref=e395]: ="css"
+                - text: name
+                - generic [ref=e396]: ="fav_language"
+                - text: value
+                - generic [ref=e397]: ="CSS"
+              - generic [ref=e398]: ">"
+            - generic [ref=e399]:
+              - generic [ref=e400]: <
+              - text: label
+              - generic [ref=e401]:
+                - text: for
+                - generic [ref=e402]: ="css"
+              - generic [ref=e403]: ">"
+            - text: CSS
+            - generic [ref=e404]:
+              - generic [ref=e405]: <
+              - text: /label
+              - generic [ref=e406]: ">"
+            - generic [ref=e407]:
+              - generic [ref=e408]: <
+              - text: br
+              - generic [ref=e409]: ">"
+            - generic [ref=e410]:
+              - generic [ref=e411]: <
+              - text: input
+              - generic [ref=e412]:
+                - text: type
+                - generic [ref=e413]: ="radio"
+                - text: id
+                - generic [ref=e414]: ="javascript"
+                - text: name
+                - generic [ref=e415]: ="fav_language"
+                - text: value
+                - generic [ref=e416]: ="JavaScript"
+              - generic [ref=e417]: ">"
+            - generic [ref=e418]:
+              - generic [ref=e419]: <
+              - text: label
+              - generic [ref=e420]:
+                - text: for
+                - generic [ref=e421]: ="javascript"
+              - generic [ref=e422]: ">"
+            - text: JavaScript
+            - generic [ref=e423]:
+              - generic [ref=e424]: <
+              - text: /label
+              - generic [ref=e425]: ">"
+            - generic [ref=e426]:
+              - generic [ref=e427]: <
+              - text: /form
+              - generic [ref=e428]: ">"
+          - link "Try it Yourself »" [ref=e429] [cursor=pointer]:
+            - /url: tryit.asp?filename=tryhtml_form_radio
+        - paragraph [ref=e430]: "This is how the HTML code above will be displayed in a browser:"
+        - paragraph [ref=e431]: "Choose your favorite Web language:"
+        - radio "HTML" [ref=e432]
+        - generic [ref=e433]: HTML
+        - radio "CSS" [ref=e434]
+        - generic [ref=e435]: CSS
+        - radio "JavaScript" [ref=e436]
+        - generic [ref=e437]: JavaScript
+        - separator [ref=e438]
+        - heading "Checkboxes" [level=2] [ref=e439]
+        - paragraph [ref=e440]:
+          - text: The
+          - code [ref=e441]: <input type="checkbox">
+          - text: defines a
+          - strong [ref=e442]: checkbox
+          - text: .
+        - paragraph [ref=e443]: Checkboxes let a user select ZERO or MORE options of a limited number of choices.
+        - generic [ref=e444]:
+          - heading "Example" [level=3] [ref=e445]
+          - paragraph [ref=e446]: "A form with checkboxes:"
+          - generic [ref=e447]:
+            - generic [ref=e448]:
+              - generic [ref=e449]: <
+              - text: form
+              - generic [ref=e450]: ">"
+            - generic [ref=e451]:
+              - generic [ref=e452]: <
+              - text: input
+              - generic [ref=e453]:
+                - text: type
+                - generic [ref=e454]: ="checkbox"
+                - text: id
+                - generic [ref=e455]: ="vehicle1"
+                - text: name
+                - generic [ref=e456]: ="vehicle1"
+                - text: value
+                - generic [ref=e457]: ="Bike"
+              - generic [ref=e458]: ">"
+            - generic [ref=e459]:
+              - generic [ref=e460]: <
+              - text: label
+              - generic [ref=e461]:
+                - text: for
+                - generic [ref=e462]: ="vehicle1"
+              - generic [ref=e463]: ">"
+            - text: I have a bike
+            - generic [ref=e464]:
+              - generic [ref=e465]: <
+              - text: /label
+              - generic [ref=e466]: ">"
+            - generic [ref=e467]:
+              - generic [ref=e468]: <
+              - text: br
+              - generic [ref=e469]: ">"
+            - generic [ref=e470]:
+              - generic [ref=e471]: <
+              - text: input
+              - generic [ref=e472]:
+                - text: type
+                - generic [ref=e473]: ="checkbox"
+                - text: id
+                - generic [ref=e474]: ="vehicle2"
+                - text: name
+                - generic [ref=e475]: ="vehicle2"
+                - text: value
+                - generic [ref=e476]: ="Car"
+              - generic [ref=e477]: ">"
+            - generic [ref=e478]:
+              - generic [ref=e479]: <
+              - text: label
+              - generic [ref=e480]:
+                - text: for
+                - generic [ref=e481]: ="vehicle2"
+              - generic [ref=e482]: ">"
+            - text: I have a car
+            - generic [ref=e483]:
+              - generic [ref=e484]: <
+              - text: /label
+              - generic [ref=e485]: ">"
+            - generic [ref=e486]:
+              - generic [ref=e487]: <
+              - text: br
+              - generic [ref=e488]: ">"
+            - generic [ref=e489]:
+              - generic [ref=e490]: <
+              - text: input
+              - generic [ref=e491]:
+                - text: type
+                - generic [ref=e492]: ="checkbox"
+                - text: id
+                - generic [ref=e493]: ="vehicle3"
+                - text: name
+                - generic [ref=e494]: ="vehicle3"
+                - text: value
+                - generic [ref=e495]: ="Boat"
+              - generic [ref=e496]: ">"
+            - generic [ref=e497]:
+              - generic [ref=e498]: <
+              - text: label
+              - generic [ref=e499]:
+                - text: for
+                - generic [ref=e500]: ="vehicle3"
+              - generic [ref=e501]: ">"
+            - text: I have a boat
+            - generic [ref=e502]:
+              - generic [ref=e503]: <
+              - text: /label
+              - generic [ref=e504]: ">"
+            - generic [ref=e505]:
+              - generic [ref=e506]: <
+              - text: /form
+              - generic [ref=e507]: ">"
+          - link "Try it Yourself »" [ref=e508] [cursor=pointer]:
+            - /url: tryit.asp?filename=tryhtml_input_checkbox
+        - paragraph [ref=e509]: "This is how the HTML code above will be displayed in a browser:"
+        - checkbox "I have a bike" [ref=e510]
+        - generic [ref=e511]: I have a bike
+        - checkbox "I have a car" [ref=e512]
+        - generic [ref=e513]: I have a car
+        - checkbox "I have a boat" [ref=e514]
+        - generic [ref=e515]: I have a boat
+        - separator [ref=e516]
+        - heading "The Submit Button" [level=2] [ref=e517]
+        - paragraph [ref=e518]:
+          - text: The
+          - code [ref=e519]: <input type="submit">
+          - text: defines a button for submitting the form data to a form-handler.
+        - paragraph [ref=e520]: The form-handler is typically a file on the server with a script for processing input data.
+        - paragraph [ref=e521]:
+          - text: The form-handler is specified in the form's
+          - code [ref=e522]: action
+          - text: attribute.
+        - generic [ref=e523]:
+          - heading "Example" [level=3] [ref=e524]
+          - paragraph [ref=e525]: "A form with a submit button:"
+          - generic [ref=e526]:
+            - generic [ref=e527]:
+              - generic [ref=e528]: <
+              - text: form
+              - generic [ref=e529]:
+                - text: action
+                - generic [ref=e530]: ="/action_page.php"
+              - generic [ref=e531]: ">"
+            - generic [ref=e532]:
+              - generic [ref=e533]: <
+              - text: label
+              - generic [ref=e534]:
+                - text: for
+                - generic [ref=e535]: ="fname"
+              - generic [ref=e536]: ">"
+            - text: "First name:"
+            - generic [ref=e537]:
+              - generic [ref=e538]: <
+              - text: /label
+              - generic [ref=e539]: ">"
+            - generic [ref=e540]:
+              - generic [ref=e541]: <
+              - text: br
+              - generic [ref=e542]: ">"
+            - generic [ref=e543]:
+              - generic [ref=e544]: <
+              - text: input
+              - generic [ref=e545]:
+                - text: type
+                - generic [ref=e546]: ="text"
+                - text: id
+                - generic [ref=e547]: ="fname"
+                - text: name
+                - generic [ref=e548]: ="fname"
+                - text: value
+                - generic [ref=e549]: ="John"
+              - generic [ref=e550]: ">"
+            - generic [ref=e551]:
+              - generic [ref=e552]: <
+              - text: br
+              - generic [ref=e553]: ">"
+            - generic [ref=e554]:
+              - generic [ref=e555]: <
+              - text: label
+              - generic [ref=e556]:
+                - text: for
+                - generic [ref=e557]: ="lname"
+              - generic [ref=e558]: ">"
+            - text: "Last name:"
+            - generic [ref=e559]:
+              - generic [ref=e560]: <
+              - text: /label
+              - generic [ref=e561]: ">"
+            - generic [ref=e562]:
+              - generic [ref=e563]: <
+              - text: br
+              - generic [ref=e564]: ">"
+            - generic [ref=e565]:
+              - generic [ref=e566]: <
+              - text: input
+              - generic [ref=e567]:
+                - text: type
+                - generic [ref=e568]: ="text"
+                - text: id
+                - generic [ref=e569]: ="lname"
+                - text: name
+                - generic [ref=e570]: ="lname"
+                - text: value
+                - generic [ref=e571]: ="Doe"
+              - generic [ref=e572]: ">"
+            - generic [ref=e573]:
+              - generic [ref=e574]: <
+              - text: br
+              - generic [ref=e575]: ">"
+            - generic [ref=e576]:
+              - generic [ref=e577]: <
+              - text: br
+              - generic [ref=e578]: ">"
+            - generic [ref=e579]:
+              - generic [ref=e580]: <
+              - text: input
+              - generic [ref=e581]:
+                - text: type
+                - generic [ref=e582]: ="submit"
+                - text: value
+                - generic [ref=e583]: ="Submit"
+              - generic [ref=e584]: ">"
+            - generic [ref=e585]:
+              - generic [ref=e586]: <
+              - text: /form
+              - generic [ref=e587]: ">"
+          - link "Try it Yourself »" [ref=e588] [cursor=pointer]:
+            - /url: tryit.asp?filename=tryhtml_form_submit
+        - paragraph [ref=e589]: "This is how the HTML code above will be displayed in a browser:"
+        - generic [ref=e590]:
+          - text: "First name:"
+          - textbox [ref=e591]: Ladislav
+          - text: "Last name:"
+          - textbox [active] [ref=e592]: Novotny
+          - button "Submit" [ref=e593]
+        - separator [ref=e594]
+        - heading "The Name Attribute for <input>" [level=2] [ref=e595]
+        - paragraph [ref=e596]:
+          - text: Notice that each input field must have a
+          - code [ref=e597]: name
+          - text: attribute to be submitted.
+        - paragraph [ref=e598]:
+          - text: If the
+          - code [ref=e599]: name
+          - text: attribute is omitted, the value of the input field will not be sent at all.
+        - generic [ref=e600]:
+          - heading "Example" [level=3] [ref=e601]
+          - paragraph [ref=e602]: "This example will not submit the value of the \"First name\" input field:"
+          - generic [ref=e603]:
+            - generic [ref=e604]:
+              - generic [ref=e605]: <
+              - text: form
+              - generic [ref=e606]:
+                - text: action
+                - generic [ref=e607]: ="/action_page.php"
+              - generic [ref=e608]: ">"
+            - generic [ref=e609]:
+              - generic [ref=e610]: <
+              - text: label
+              - generic [ref=e611]:
+                - text: for
+                - generic [ref=e612]: ="fname"
+              - generic [ref=e613]: ">"
+            - text: "First name:"
+            - generic [ref=e614]:
+              - generic [ref=e615]: <
+              - text: /label
+              - generic [ref=e616]: ">"
+            - generic [ref=e617]:
+              - generic [ref=e618]: <
+              - text: br
+              - generic [ref=e619]: ">"
+            - generic [ref=e620]:
+              - generic [ref=e621]: <
+              - text: input
+              - generic [ref=e622]:
+                - text: type
+                - generic [ref=e623]: ="text"
+                - text: id
+                - generic [ref=e624]: ="fname"
+                - text: value
+                - generic [ref=e625]: ="John"
+              - generic [ref=e626]: ">"
+            - generic [ref=e627]:
+              - generic [ref=e628]: <
+              - text: br
+              - generic [ref=e629]: ">"
+            - generic [ref=e630]:
+              - generic [ref=e631]: <
+              - text: br
+              - generic [ref=e632]: ">"
+            - generic [ref=e633]:
+              - generic [ref=e634]: <
+              - text: input
+              - generic [ref=e635]:
+                - text: type
+                - generic [ref=e636]: ="submit"
+                - text: value
+                - generic [ref=e637]: ="Submit"
+              - generic [ref=e638]: ">"
+            - generic [ref=e639]:
+              - generic [ref=e640]: <
+              - text: /form
+              - generic [ref=e641]: ">"
+          - link "Try it Yourself »" [ref=e642] [cursor=pointer]:
+            - /url: tryit.asp?filename=tryhtml_form_submit_id
+        - separator [ref=e643]
+        - generic [ref=e644]:
+          - heading "Exercise ?" [level=2] [ref=e645]:
+            - text: Exercise
+            - generic [ref=e647] [cursor=pointer]: "?"
+          - paragraph [ref=e648]: What is the correct HTML element for defining a form?
+          - generic [ref=e649]:
+            - generic [ref=e650] [cursor=pointer]:
+              - radio "<schema>" [ref=e651]
+              - code [ref=e653] [cursor=pointer]: <schema>
+            - generic [ref=e654] [cursor=pointer]:
+              - radio "<ff>" [ref=e655]
+              - code [ref=e657] [cursor=pointer]: <ff>
+            - generic [ref=e658] [cursor=pointer]:
+              - radio "<form>" [ref=e659]
+              - code [ref=e661] [cursor=pointer]: <form>
+            - button "Submit Answer »" [ref=e662] [cursor=pointer]
+        - separator [ref=e663]
+        - 'heading "Video: HTML Forms" [level=2] [ref=e664]'
+        - link "Tutorial on YouTube Tutorial on YouTube" [ref=e665] [cursor=pointer]:
+          - /url: https://youtu.be/VLeERv_dR6Q&list=PLP9IO4UYNF0VdAajP_5pYG-jG2JRrG72s
+          - generic [ref=e666] [cursor=pointer]:
+            - img "Tutorial on YouTube" [ref=e669] [cursor=pointer]
+            - img "Tutorial on YouTube" [ref=e671] [cursor=pointer]
+        - separator [ref=e672]
+        - generic [ref=e673]:
+          - link "❮ Previous" [ref=e674] [cursor=pointer]:
+            - /url: html_xhtml.asp
+          - link "Next ❯" [ref=e675] [cursor=pointer]:
+            - /url: html_forms_attributes.asp
+        - generic [ref=e679]:
+          - generic [ref=e682]: Track your progress - it's free!
+          - generic [ref=e687]:
+            - link "Login to your account" [ref=e688] [cursor=pointer]:
+              - /url: https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com&origin=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_forms.asp
+              - text: Log in
+            - link "Sign Up to Improve Your Learning Experience" [ref=e689] [cursor=pointer]:
+              - /url: https://profile.w3schools.com/sign-up?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com&origin=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_forms.asp
+              - text: Sign Up
+      - generic [ref=e690]:
+        - link "Get Certified" [ref=e694] [cursor=pointer]:
+          - /url: https://www.w3schools.com/academy/index.php
+          - img "Get Certified" [ref=e696] [cursor=pointer]
+        - generic [ref=e697]:
+          - heading "COLOR PICKER" [level=4] [ref=e698]:
+            - link "COLOR PICKER" [ref=e699] [cursor=pointer]:
+              - /url: /colors/colors_picker.asp
+          - link "colorpicker" [ref=e700] [cursor=pointer]:
+            - /url: /colors/colors_picker.asp
+            - img "colorpicker" [ref=e702] [cursor=pointer]
+        - generic [ref=e704]:
+          - link "" [ref=e705] [cursor=pointer]:
+            - /url: https://www.youtube.com/@w3schools
+            - generic [ref=e706] [cursor=pointer]: 
+          - link "" [ref=e707] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/w3schools.com/
+            - generic [ref=e708] [cursor=pointer]: 
+          - link "" [ref=e709] [cursor=pointer]:
+            - /url: https://discord.com/invite/w3schools
+            - generic [ref=e710] [cursor=pointer]: 
+          - link "" [ref=e711] [cursor=pointer]:
+            - /url: https://www.facebook.com/w3schoolscom/
+            - generic [ref=e712] [cursor=pointer]: 
+          - link "" [ref=e713] [cursor=pointer]:
+            - /url: https://www.instagram.com/w3schools.com_official/
+            - generic [ref=e714] [cursor=pointer]: 
+          - link "" [ref=e715] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@w3schools.com
+            - generic [ref=e716] [cursor=pointer]: 
+        - paragraph [ref=e719]:
+          - link "REMOVE ADS" [ref=e720] [cursor=pointer]:
+            - /url: https://order.w3schools.com/plans
+  - generic [ref=e728]:
+    - generic [ref=e729]:
+      - link "W3Schools.com" [ref=e731] [cursor=pointer]:
+        - /url: //www.w3schools.com
+        - generic [ref=e732] [cursor=pointer]: 
+      - link "PLUS" [ref=e734] [cursor=pointer]:
+        - /url: /plus/index.php
+      - link "SPACES" [ref=e736] [cursor=pointer]:
+        - /url: /spaces/index.php
+      - link "GET CERTIFIED" [ref=e738] [cursor=pointer]:
+        - /url: https://campus.w3schools.com/collections/certifications
+      - link "FOR TEACHERS" [ref=e740] [cursor=pointer]:
+        - /url: /academy/index.php
+      - link "FOR BUSINESS" [ref=e742] [cursor=pointer]:
+        - /url: /academy/index.php
+      - link "CONTACT US" [ref=e744] [cursor=pointer]:
+        - /url: javascript:void(0);
+    - generic [ref=e745]:
+      - generic [ref=e746]:
+        - heading "Top Tutorials" [level=5] [ref=e747]
+        - link "HTML Tutorial" [ref=e748] [cursor=pointer]:
+          - /url: /html/default.asp
+        - link "CSS Tutorial" [ref=e749] [cursor=pointer]:
+          - /url: /css/default.asp
+        - link "JavaScript Tutorial" [ref=e750] [cursor=pointer]:
+          - /url: /js/default.asp
+        - link "How To Tutorial" [ref=e751] [cursor=pointer]:
+          - /url: /howto/default.asp
+        - link "SQL Tutorial" [ref=e752] [cursor=pointer]:
+          - /url: /sql/default.asp
+        - link "Python Tutorial" [ref=e753] [cursor=pointer]:
+          - /url: /python/default.asp
+        - link "W3.CSS Tutorial" [ref=e754] [cursor=pointer]:
+          - /url: /w3css/default.asp
+        - link "Bootstrap Tutorial" [ref=e755] [cursor=pointer]:
+          - /url: /bootstrap/bootstrap_ver.asp
+        - link "PHP Tutorial" [ref=e756] [cursor=pointer]:
+          - /url: /php/default.asp
+        - link "Java Tutorial" [ref=e757] [cursor=pointer]:
+          - /url: /java/default.asp
+        - link "C++ Tutorial" [ref=e758] [cursor=pointer]:
+          - /url: /cpp/default.asp
+        - link "jQuery Tutorial" [ref=e759] [cursor=pointer]:
+          - /url: /jquery/default.asp
+      - generic [ref=e760]:
+        - heading "Top References" [level=5] [ref=e761]
+        - link "HTML Reference" [ref=e762] [cursor=pointer]:
+          - /url: /tags/default.asp
+        - link "CSS Reference" [ref=e763] [cursor=pointer]:
+          - /url: /cssref/index.php
+        - link "JavaScript Reference" [ref=e764] [cursor=pointer]:
+          - /url: /jsref/default.asp
+        - link "SQL Reference" [ref=e765] [cursor=pointer]:
+          - /url: /sql/sql_ref_keywords.asp
+        - link "Python Reference" [ref=e766] [cursor=pointer]:
+          - /url: /python/python_reference.asp
+        - link "W3.CSS Reference" [ref=e767] [cursor=pointer]:
+          - /url: /w3css/w3css_references.asp
+        - link "Bootstrap Reference" [ref=e768] [cursor=pointer]:
+          - /url: /bootstrap/bootstrap_ref_all_classes.asp
+        - link "PHP Reference" [ref=e769] [cursor=pointer]:
+          - /url: /php/php_ref_overview.asp
+        - link "HTML Colors" [ref=e770] [cursor=pointer]:
+          - /url: /colors/colors_names.asp
+        - link "Java Reference" [ref=e771] [cursor=pointer]:
+          - /url: /java/java_ref_keywords.asp
+        - link "AngularJS Reference" [ref=e772] [cursor=pointer]:
+          - /url: /angularjs/angularjs_ref_directives.asp
+        - link "jQuery Reference" [ref=e773] [cursor=pointer]:
+          - /url: /jquery/jquery_ref_overview.asp
+      - generic [ref=e774]:
+        - heading "Top Examples" [level=5] [ref=e775]
+        - link "HTML Examples" [ref=e776] [cursor=pointer]:
+          - /url: /html/html_examples.asp
+        - link "CSS Examples" [ref=e777] [cursor=pointer]:
+          - /url: /css/css_examples.asp
+        - link "JavaScript Examples" [ref=e778] [cursor=pointer]:
+          - /url: /js/js_examples.asp
+        - link "How To Examples" [ref=e779] [cursor=pointer]:
+          - /url: /howto/default.asp
+        - link "SQL Examples" [ref=e780] [cursor=pointer]:
+          - /url: /sql/sql_examples.asp
+        - link "Python Examples" [ref=e781] [cursor=pointer]:
+          - /url: /python/python_examples.asp
+        - link "W3.CSS Examples" [ref=e782] [cursor=pointer]:
+          - /url: /w3css/w3css_examples.asp
+        - link "Bootstrap Examples" [ref=e783] [cursor=pointer]:
+          - /url: /bootstrap/bootstrap_examples.asp
+        - link "PHP Examples" [ref=e784] [cursor=pointer]:
+          - /url: /php/php_examples.asp
+        - link "Java Examples" [ref=e785] [cursor=pointer]:
+          - /url: /java/java_examples.asp
+        - link "XML Examples" [ref=e786] [cursor=pointer]:
+          - /url: /xml/xml_examples.asp
+        - link "jQuery Examples" [ref=e787] [cursor=pointer]:
+          - /url: /jquery/jquery_examples.asp
+      - generic [ref=e788]:
+        - link "Get Certified" [ref=e789] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/course-catalog
+          - heading "Get Certified" [level=5] [ref=e790] [cursor=pointer]
+        - link "HTML Certificate" [ref=e791] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/html-certificate
+        - link "CSS Certificate" [ref=e792] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/css-certificate
+        - link "JavaScript Certificate" [ref=e793] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/javascript-certificate
+        - link "Front End Certificate" [ref=e794] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/front-end-certificate
+        - link "SQL Certificate" [ref=e795] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/sql-certificate
+        - link "Python Certificate" [ref=e796] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/python-certificate
+        - link "PHP Certificate" [ref=e797] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/php-certificate
+        - link "jQuery Certificate" [ref=e798] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/jquery-certificate
+        - link "Java Certificate" [ref=e799] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/java-certificate
+        - link "C++ Certificate" [ref=e800] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/c-certificate
+        - link "C# Certificate" [ref=e801] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/c-certificate-1
+        - link "XML Certificate" [ref=e802] [cursor=pointer]:
+          - /url: https://campus.w3schools.com/collections/certifications/products/xml-certificate
+    - generic [ref=e803]:
+      - link "" [ref=e804] [cursor=pointer]:
+        - /url: https://www.youtube.com/@w3schools
+        - generic [ref=e805] [cursor=pointer]: 
+      - link "" [ref=e806] [cursor=pointer]:
+        - /url: https://www.linkedin.com/company/w3schools.com/
+        - generic [ref=e807] [cursor=pointer]: 
+      - link "" [ref=e808] [cursor=pointer]:
+        - /url: https://discord.com/invite/w3schools
+        - generic [ref=e809] [cursor=pointer]: 
+      - link "" [ref=e810] [cursor=pointer]:
+        - /url: https://www.facebook.com/w3schoolscom/
+        - generic [ref=e811] [cursor=pointer]: 
+      - link "" [ref=e812] [cursor=pointer]:
+        - /url: https://www.instagram.com/w3schools.com_official/
+        - generic [ref=e813] [cursor=pointer]: 
+      - link "FORUM" [ref=e814] [cursor=pointer]:
+        - /url: /forum/default.asp
+      - link "ABOUT" [ref=e815] [cursor=pointer]:
+        - /url: /about/default.asp
+      - link "ACADEMY" [ref=e816] [cursor=pointer]:
+        - /url: /academy/index.php
+    - generic [ref=e817]:
+      - text: W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using W3Schools, you agree to have read and accepted our
+      - link "terms of use" [ref=e818] [cursor=pointer]:
+        - /url: /about/about_copyright.asp
+      - text: ","
+      - link "cookie and privacy policy" [ref=e819] [cursor=pointer]:
+        - /url: /about/about_privacy.asp
+      - text: .
+      - link "Copyright 1999-2025" [ref=e820] [cursor=pointer]:
+        - /url: /about/about_copyright.asp
+      - text: by Refsnes Data. All Rights Reserved.
+      - link "W3Schools is Powered by W3.CSS" [ref=e821] [cursor=pointer]:
+        - /url: //www.w3schools.com/w3css/default.asp
+      - text: .
+  - generic [ref=e825]:
+    - img "Website CMP logo" [ref=e830]
+    - generic [ref=e832]:
+      - heading "We care about your privacy!" [level=1] [ref=e833]
+      - paragraph [ref=e834]:
+        - text: When visiting our site, pre-selected companies may access and use certain information on your device and about this web page to serve relevant ads or personalised content. Please note that ads help keep our service free. Personal data will be processed based on consent in accordance with Art.6(1)(a) of the GDPR framework in
+        - link "EU law" [ref=e835] [cursor=pointer]:
+          - /url: https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1528874672298&uri=CELEX%3A32016R0679
+        - text: ", or as legitimate interest in accordance with Art.6(1)(f) of the same."
+      - heading "Learn more why you are seeing this" [level=3] [ref=e836]
+      - paragraph [ref=e837]:
+        - text: To offer you free, high-quality content and deliver the best possible user experience on our website, we and our
+        - generic [ref=e838]: technology partners
+        - text: "(1529) require your consent to store and access personal data on your device. This includes using cookies, unique identifiers and information about your browse activity to show you relevant ads. This may include the following:"
+      - list [ref=e839]:
+        - listitem [ref=e840]: Store and/or access information on a device
+        - listitem [ref=e841]: Personalised advertising and content, advertising and content measurement, audience research and services development
+        - listitem [ref=e842]: Use precise geolocation data
+        - listitem [ref=e843]: Actively scan device characteristics for identification
+      - paragraph
+      - paragraph [ref=e844]: You may consent to the processing described above or access more detailed information and customise your choices. The given consent will apply to this site only. Please take into consideration that some of your personal data processing may rely on legitimate interest which does not require your consent, but you have a right to object to this.
+      - paragraph [ref=e845]:
+        - text: You can change or withdraw your consent anytime via our footer link or
+        - link "privacy policy page" [ref=e846] [cursor=pointer]:
+          - /url: https://www.w3schools.com/about/about_privacy.asp
+        - text: .
+    - generic [ref=e848]:
+      - generic [ref=e849]: Customise choices
+      - generic [ref=e850]: Accept all & visit the site
+```
