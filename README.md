@@ -1,45 +1,23 @@
-# Playwright Showcase
+# Playwright - 100 Tests Showcase
 
-Tento projekt obsahuje ukázkovou sadu Playwright testů (10 scénářů) pro různé veřejně dostupné weby a API.  
-This project has Playwright tests (10 scenerios) for testing websites and APIs. 
+This repository contains 100 different example Playwright tests across a variety of public demo sites and pages.
+They are intended for learning, portfolio, and demonstration purposes. Tests are simple and self-contained.
 
-## 📦 Instalace
+## Usage
 
+1. Install dependencies:
 ```bash
 npm install
 ```
 
-## ▶️ Spuštění testů
-
-Všechny testy:
-
+2. Run all tests (may be slow):
 ```bash
 npx playwright test
 ```
 
-V prohlížeči (headed mode):
-
+3. Run a single test file:
 ```bash
-npx playwright test --headed
+npx playwright test tests/test001.spec.ts
 ```
 
-Spuštění konkrétního testu:
-
-```bash
-npx playwright test tests/google-search.spec.ts
-```
-
-## 🧪 Scénáře
-- Google search
-- Wikipedia článek
-- GitHub homepage
-- DuckDuckGo search
-- W3Schools formulář
-- HTTPBin API
-- Responsivita (playwright.dev)
-- TodoMVC app
-- Shop cart (saucedemo.com)
-- Mock login API
-
----
-Tento projekt je pouze ukázka pro sebeprezentaci a trénink.
+> Note: These are example tests. Update selectors if pages change or to target your own app.

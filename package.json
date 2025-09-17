@@ -1,5 +1,5 @@
 {
-  "name": "playwright-showcase",
+  "name": "playwright-100-tests",
   "version": "1.0.0",
   "scripts": {
     "test": "npx playwright test",
