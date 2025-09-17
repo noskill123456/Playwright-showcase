@@ -9,3 +9,11 @@ test('Test 002 - page return 200', async ({request})  => {
   const response = await request.get('https://example.com');
   expect(response.status()).toBe(200);
 });
+
+test('Test 003 - existence of H1 element', async ({page} =>) {
+  await page.goto(('https://example.com');
+  const h1 = page.locator('h1');
+  await expect(h1).toBeVisible();
+  await expect(h1).toHaveText('Example Domain');
+
+});
